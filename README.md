@@ -1,6 +1,10 @@
 # kodluyoruzilkrepo
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası ile beraber bir adet index.html bulunuyor. [kodluyoruz](www.kodluyoruz.org)
+
+## Installation
+
+Lorem ipsum
 
 ## How to greet the world in Javascript language
 
