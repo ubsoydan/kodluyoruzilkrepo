@@ -17,3 +17,7 @@ console.log("hello world");
 ![Curse-or not?](https://miro.medium.com/max/280/0*oa0XcvM99Y5clDsj.png)
 **What is that image up there?**
 _It's a curse-or not?_
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
